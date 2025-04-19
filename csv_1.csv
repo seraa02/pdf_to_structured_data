@@ -1,0 +1,34 @@
+Date,Category,Section,Description
+"January 8, 2018",Diagnosis,Past Medical History,Diagnosed with Rheumatoid Arthritis 2 months ago
+"January 8, 2018",LabResult,Autoimmune,Positive ANA (>1:640)
+"January 8, 2018",LabResult,Autoimmune,"Positive Rheumatoid Factor (70, Normal <20)"
+"January 8, 2018",PhysicalExam,Vitals,"T 98.5, HR 68, BP 126/85, RR 16"
+"January 8, 2018",PhysicalExam,General Appearance,"Patient is a ill-appearing, well-nourished man in no acute distress"
+"January 8, 2018",PhysicalExam,Skin,"Macular rash in the pre-auricular area. No pallor. Normal texture, normal turgor, warm, dry"
+"January 8, 2018",PhysicalExam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus"
+"January 8, 2018",PhysicalExam,Neck,Lymphadenopathy in the anterior cervical chain and supraclavicular chain. Lymph nodes were 4-5 mm and not fixed
+"January 8, 2018",PhysicalExam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4"
+"January 8, 2018",PhysicalExam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+"January 8, 2018",PhysicalExam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+"January 8, 2018",PhysicalExam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+"January 8, 2018",PhysicalExam,Neuro,"Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact"
+Past 2 months,MedicalHistory,Head and Face,"No pain, traumatic injury, ptosis, loss of sensation"
+Past 2 months,MedicalHistory,Ears,"No changes to hearing, discharge from ears"
+Past 2 months,MedicalHistory,Eyes,"Positive for burning sensation, See HPI. No changes to vision, inflammation, infections, double vision, tearing"
+Past 2 months,MedicalHistory,Mouth and Throat,"See HPI, positive for dry mouth and dysphagia. No dental problems, hoarseness, or bleeding gums"
+Past 2 months,MedicalHistory,Nose and Sinus,"No discharge, epistaxis, sinus pain, obstruction"
+Past 2 months,MedicalHistory,Respiratory,"No cough, sputum, dyspnea, wheezing"
+Past 2 months,MedicalHistory,Cardiovascular,"No chest pain, dyspnea, swelling of extremities, hypertension, exercise intolerance, or palpitations"
+Past 2 months,MedicalHistory,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, vomiting. No PICA, heartburn, change in bowel habits or bowel texture. No blood in the stool"
+Past 2 months,MedicalHistory,Genital Tract,"No discharge, pain, pruritus, history of sexually transmitted infections"
+Past 2 months,MedicalHistory,MSK,"Positive for painful, hot, and tender joints with subjective swelling. See HPI"
+Past 2 months,MedicalHistory,Nervous System,"See HPI regarding recent lightheadedness. No tremor, ataxia, difficulty speaking, loss of sensation, seizures, changes in memory"
+Past 2 months,MedicalHistory,Endocrine,"See HPI regarding fatigue. No tremor, heat or cold intolerance, polyuria, polydipsia, goiter"
+Past 2 months,MedicalHistory,Psychological,"Positive for depressed mood. No nervousness, phobia, insomnia, memory loss, disorientation"
+Present,Event,History of Present Illness,"Patient presents with a four month history of joint pain and weakness, a 2 month history of headaches with lightheadedness and nausea, and a one month history of subjective fever, and night sweats alongside symptoms of burning eyes and dry mouth, decreased RBC and Hemoglobin, and a CT with an enlarged parotid gland"
+Present,Problem List,Joint Pain,Joint pain
+Present,Problem List,Unintentional Weight Loss,Unintentional weight loss
+Present,Problem List,Fever,Fever
+Present,Problem List,Night Sweats,Night sweats
+Present,Assessment,Differential Diagnosis,Differential diagnosis includes: Sjögren's Syndrome
+Present,Assessment,Assessment,"The patient has a personal history of autoimmune disease and a positive HLA genotype. He was diagnosed with Rheumatoid arthritis 2 months ago. His presenting symptom of bilateral joint pain in the knees and fingers paired with a positive RF, CCP, and decreased CD4 count made this diagnosis very likely."

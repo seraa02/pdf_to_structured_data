@@ -1,0 +1,427 @@
+Patient Id,Date,Category,Section,Description
+002,November 2017,MedicalHistory,History of Present Illness,"Patient began experiencing symptoms 4 months ago, including fatigue and joint pain in the knees and hands, diagnosed with Rheumatoid Arthritis."
+002,November 2017,Diagnosis,History of Present Illness,"Rheumatoid Arthritis, diagnosed when patient presented to the emergency room with joint pain in the hands and knees."
+002,January 2018,MedicalHistory,Past Medical History,"Rheumatoid Arthritis, diagnosed January 2018, treated with corticosteroids and methotrexate."
+002,4 months ago,MedicalHistory,History of Present Illness,"Patient experienced worsening symptoms, including headaches, light and sound sensitivity, nausea, and vomiting."
+002,2 months ago,MedicalHistory,History of Present Illness,"Patient's symptoms worsened, including daily headaches, lightheadedness, and inability to eat."
+002,Past 2 months,MedicalHistory,History of Present Illness,"Patient experienced worsening joint pain, constant and not alleviated by NSAIDS, and night sweats, chills, and subjective fevers."
+002,3 days ago,MedicalHistory,History of Present Illness,"Patient experienced a constant headache and lightheadedness, and felt unable to eat, with vomiting after trying to eat."
+002,Past 4 months,MedicalHistory,History of Present Illness,Patient reports a 36-pound unintentional weight loss and significant decrease in muscle mass.
+002,Past 4 months,MedicalHistory,History of Present Illness,"Patient reports early satiety, nausea, and depressed mood."
+002,Past 2 months,MedicalHistory,History of Present Illness,"Patient reports clumsiness, especially in the hands."
+002,Past 4 months,MedicalHistory,History of Present Illness,Patient reports frustration with being unable to work due to illness.
+002,Present,PhysicalExam,Physical Exam,"Patient had a facial rash in the pre-auricular area, extending over the eyelids and bridge of the nose, and cervical lymphadenopathy."
+002,Present,PhysicalExam,Physical Exam,Patient had a 36-pound unintentional weight loss and significant decrease in muscle mass.
+002,Present,Review of Systems,Skin,Positive for facial rash in the pre-auricular area.
+002,Present,Review of Systems,Hematopoietic,"Positive for fatigue, lightheadedness, headaches, and enlarged non-tender lymph nodes."
+002,Present,Review of Systems,Head and Face,"No pain, traumatic injury, ptosis, or loss of sensation."
+002,Present,Review of Systems,Mouth and Throat,Positive for dry mouth and dysphagia.
+002,Present,Review of Systems,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, and vomiting."
+002,November 2017,MedicalHistory,History of Present Illness,"2-month history of joint pain and weakness, a 2-month history of headaches with lightheadedness and nausea"
+002,November 2017,MedicalHistory,History of Present Illness,Diagnosed with Rheumatoid Arthritis
+002,November 2017,MedicalHistory,History of Present Illness,"Given corticosteroids, then stopped after 2 weeks"
+002,November 2017,MedicalHistory,History of Present Illness,"Started on methotrexate, then stopped"
+002,November 2017,MedicalHistory,History of Present Illness,Fatigue and joint pain in knees and hands
+002,Past 2 months,MedicalHistory,History of Present Illness,"Progressively worsening headaches with lightheadedness, light and sound sensitivity, nausea, and vomiting"
+002,Past 2 months,MedicalHistory,History of Present Illness,Worsening joint pain in knees and hands
+002,Past 2 months,MedicalHistory,History of Present Illness,Dry mouth that makes swallowing food difficult and a burning sensation in eyes
+002,Past 2 months,MedicalHistory,History of Present Illness,"Night sweats, chills, and subjective fevers almost every night"
+002,Past 2 months,MedicalHistory,History of Present Illness,"Impact on sleep, unable to sleep more than 4 consecutive hours in over one month"
+002,3 days ago,Event,History of Present Illness,"Headache came on, felt particularly light headed and weak"
+002,3 days ago,Event,History of Present Illness,"Felt unable to eat, vomited immediately after eating"
+002,3 days ago,Event,History of Present Illness,"Constant headache and lightheadedness, felt too weak to walk or leave the bedroom"
+002,3 days ago,Event,History of Present Illness,Sister noticed a facial rash in the pre-auricular area
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive ANA, Positive Rheumatoid Factor, Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate, Positive Double Stranded DNA Antibody"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased CD4, Decreased WBC, Decreased RBC"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Lactate Dehydrogenase, Elevated Creatinine Kinase, Decreased RBC, Decreased Hemoglobin, Decreased Hematocrit, Decreased WBC, Decreased Platelets"
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,"CT showed chronic enlargement of the Parotid Gland, Head CT came back with no abnormalities, US showed bilateral neck, axilla, and groin lymphadenopathy"
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,Nodes show normal morphology and normal fatty hila
+002,February 27 2018,Procedure,Pertinent Diagnostic Tests,"CT, Head CT, US"
+002,Physical Exam,PhysicalExam,Physical Exam,"T 98.5, HR 68, BP 126/85, RR 16"
+002,Physical Exam,PhysicalExam,Physical Exam,"Patient is a ill-appearing, well-nourished man in no acute distress"
+002,Physical Exam,PhysicalExam,Physical Exam,"Skin: Macular rash in the pre-auricular area, No pallor, Normal texture, normal turgor, warm, dry"
+002,Physical Exam,PhysicalExam,Physical Exam,"Eyes: Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,Physical Exam,PhysicalExam,Physical Exam,Neck: Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+002,Physical Exam,PhysicalExam,Physical Exam,"Heart: PMI non-displaced and heart of normal size, no thrill or heaves, RRR, S1S2 with no S3 or S4"
+002,Physical Exam,PhysicalExam,Physical Exam,"Lungs: No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,Physical Exam,PhysicalExam,Physical Exam,"Extremities: Normal capillary refill, no edema, clubbing, cyanosis"
+002,Physical Exam,PhysicalExam,Physical Exam,"Abdomen: Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,Physical Exam,PhysicalExam,Physical Exam,"Neuro: Alert and oriented X 3, Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally, Cranial Nerves II-XII were grossly intact, Tandem gait was normal symmetric, Sensation intact to light touch and sharp vs dull on distal arms and legs, Proprioception intact"
+002,January 8 2018,Diagnosis,Past Medical History,"Rheumatoid Arthritis, diagnosed January 2018"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive ANA (>1:640), Positive Rheumatoid Factor (70, Normal <20), Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate (46, Normal 0-15mm/hr), Positive Double Stranded DNA Antibody (>300, Normal <10), Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL), Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL), Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL), Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL), Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Lactate Dehydrogenase (333, Normal 140-271), Elevated Creatinine Kinase (229, Normal: 30-223), Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL), Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL), Decreased Hematocrit"
+002,Past 2 months,MedicalHistory,MedicalHistory,Unintentional weight loss of 36 pounds and significant decrease in muscle mass
+002,Past 2 months,MedicalHistory,MedicalHistory,Early satiety and nausea when eating
+002,Past 2 months,MedicalHistory,MedicalHistory,"Clumsiness, especially of the hands"
+002,Past 2 months,MedicalHistory,MedicalHistory,Depressed mood and frustration with being unable to work
+002,Past 2 months,SocialHistory,SocialHistory,"Working as an electrician, living with wife and 2 dogs, previously drinking alcohol socially but ceased 4 months ago"
+002,Pre-auricular area,PhysicalExam,Skin,Macular rash
+002,Cervical lymphadenopathy,PhysicalExam,Skin,Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+002,"Fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes",Review of Systems,Hematopoietic,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes"
+002,"Burning sensation, dry mouth, dysphagia",Review of Systems,Mouth and Throat,"See HPI, positive for dry mouth and dysphagia"
+002,"Anorexia, decreased appetite, nausea, vomiting",Review of Systems,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, vomiting"
+002,"Painful, hot, and tender joints with subjective swelling",Review of Systems,MSK,"Positive for painful, hot, and tender joints with subjective swelling"
+002,Depressed mood,Review of Systems,Psychological,Positive for depressed mood
+002,4-5 mm non-fixed lymph nodes in anterior cervical chain and supraclavicular chain,PhysicalExam,Neck,Lymph nodes were 4-5 mm and not fixed
+002,Non-displaced PMI and heart of normal size,PhysicalExam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4"
+002,"Normal capillary refill, no edema, clubbing, cyanosis",PhysicalExam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,"Alert and oriented X 3, normal symmetric tandem gait, sensation intact to light touch and sharp vs dull on distal arms and legs",PhysicalExam,Neuro,"Alert and oriented X 3, normal symmetric tandem gait, sensation intact to light touch and sharp vs dull on distal arms and legs"
+002,Ibuprofen PRN for headaches and joint pain,Medications,Medications,Ibuprofen PRN for headaches and joint pain
+002,"No known drug allergies, no known environmental, food, or seasonal allergies",Allergies,Allergies,"No known drug allergies, no known environmental, food, or seasonal allergies"
+002,"Living, aged 72, Hypothyroidism",FamilyHistory,FamilyHistory,Mother- living aged 72 - Hypothyroidism
+002,"Living, aged 44, Vitiligo",FamilyHistory,FamilyHistory,Brother – living aged 44 – Vitiligo
+002,"Living, aged 74, HTN",FamilyHistory,FamilyHistory,Father – Living aged 74 - HTN
+002,"Up to date with vaccinations, including yearly influenza vaccine",Past Medical History,Past Medical History,"Up to date with vaccinations, including yearly influenza vaccine"
+002,Nasal artery cauterization and clip placement - 2011,SurgicalHistory,SurgicalHistory,Nasal artery cauterization and clip placement - 2011
+002,January 8 2018,Diagnosis,Problem List,Joint Pain
+002,January 8 2018,Diagnosis,Problem List,Unintentional Weight Loss
+002,January 8 2018,Diagnosis,Problem List,Fever
+002,January 8 2018,Diagnosis,Problem List,Night Sweats
+002,January 8 2018,Diagnosis,Problem List,Early Satiety
+002,January 8 2018,Diagnosis,Problem List,Dry eye and Mouth
+002,January 8 2018,Diagnosis,Problem List,"Headaches with lightheadedness, nausea"
+002,January 8 2018,Diagnosis,Problem List,Lymphadenopathy
+002,January 8 2018,Diagnosis,Problem List,Facial Rash
+002,Past 2 months,MedicalHistory,Summary Statement,Rheumatoid Arthritis
+002,January 2018,MedicalHistory,Past Medical History,"Rheumatoid Arthritis, diagnosed January 2018"
+002,2011,MedicalHistory,Surgical History,Nasal artery cauterization and clip placement
+002,Present,Medication,Medications,Ibuprofen PRN for headaches and joint pain
+002,Present,Allergy,Allergies,"No known drug allergies.  No known environmental, food, or seasonal allergies."
+002,FamilyHistory,FamilyHistory,Family History,"Father – Living aged 74- HTN  Mother- living aged 72 - Hypothyroidism  Brother – living aged 44 – Vitiligo   Sister – living aged 40 – No known chronic health issues   2 sons - living, aged 27 and 24 – No known chronic health issues"
+002,Present,SocialHistory,Social History,"Patient is a high school graduate, working as an electrician, living with his wife of 25 years and 2 dogs."
+002,Present,SocialHistory,Social History,Patient feels safe and well-cared for in his home.
+002,Present,SocialHistory,Social History,"Patient works as an electrician, a job with daily physical exertion that requires climbing ladders and the lifting of heavy objects."
+002,Present,SocialHistory,Social History,Patient is concerned about having to miss additional work due to his illness.
+002,Present,SocialHistory,Social History,Patient denies any history of smoking.
+002,Present,SocialHistory,Social History,"Patient reports previously drinking alcohol socially -1-2 beers, 1-2 times per month - however has ceased alcohol intake since the onset of symptoms 4 months ago."
+002,Present,SocialHistory,Social History,Patient denies any recreational drug use.
+002,Present,SocialHistory,Social History,"Patient denies any exercise, though he feels that physically exerted every day at his job."
+002,Present,SocialHistory,Social History,Patient reports a well-rounded non-vegetarian diet of mostly home cooked meals of meat and vegetables.
+002,Present,SocialHistory,Social History,Patient is sexually active with his wife and reports a happy and monogamous relationship.
+002,Present,Review of Systems,Review of Systems,Skin: Positive for facial rash in the pre-auricular area.
+002,Present,Review of Systems,Review of Systems,"Hematopoietic: Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes."
+002,Present,Review of Systems,Review of Systems,"Head and Face: No pain, traumatic injury, ptosis, loss of sensation."
+002,Present,Review of Systems,Review of Systems,Eyes: Positive for burning sensation.
+002,Present,Review of Systems,Review of Systems,"Mouth and Throat: See HPI, positive for dry mouth and dysphagia."
+002,Present,Review of Systems,Review of Systems,"Nose and Sinus: No discharge, epistaxis, sinus pain, obstruction."
+002,Present,Review of Systems,Review of Systems,"Respiratory: No cough, sputum, dyspnea, wheezing."
+002,Present,Review of Systems,Review of Systems,"Cardiovascular: No chest pain, dyspnea, swelling of extremities, hypertension, exercise intolerance, or palpitations."
+002,Present,Review of Systems,Review of Systems,"Gastrointestinal: Positive for anorexia, decreased appetite, nausea, vomiting."
+002,Present,Review of Systems,Review of Systems,"Genital Tract: No discharge, pain, pruritus, history of sexually transmitted infections."
+002,Present,Review of Systems,Review of Systems,"MSK: Positive for painful, hot, and tender joints with subjective swelling."
+002,Present,Review of Systems,Review of Systems,Nervous System: See HPI regarding recent lightheadedness.
+002,Present,Review of Systems,Review of Systems,Endocrine: See HPI regarding fatigue.
+002,Present,Review of Systems,Review of Systems,Psychological: Positive for depressed mood.
+002,Present,PhysicalExam,Physical Exam,"Vitals: T 98.5, HR 68, BP 126/85, RR 16."
+002,Present,PhysicalExam,Physical Exam,"General Appearance: Patient is a ill-appearing, well-nourished man in no acute distress."
+002,Present,PhysicalExam,Physical Exam,"Skin: Macular rash in the pre-auricular area. No pallor. Normal texture, normal turgor, warm, dry."
+002,Present,PhysicalExam,Physical Exam,"Eyes: Normal pink mucosa with no signs of pallor, no scleral icterus."
+002,Present,PhysicalExam,Physical Exam,Neck: Lymphadenopathy in the anterior cervical chain and supraclavicular chain.
+002,Present,PhysicalExam,Physical Exam,"Heart: PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4."
+002,Present,PhysicalExam,Physical Exam,"Lungs: No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles."
+002,Present,PhysicalExam,Physical Exam,"Extremities: Normal capillary refill, no edema, clubbing, cyanosis"
+002,Present,PhysicalExam,Physical Exam,"Abdomen: Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,Present,PhysicalExam,Physical Exam,"Neuro: Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally."
+002,Pertinent Diagnostic Tests,LabResult,Pertinent Diagnostic Tests,"January 8 2018: Autoimmune: Positive ANA (>1:640), Positive Rheumatoid Factor (70, Normal <20), Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate (46, Normal 0-15mm/hr), Positive Double Stranded DNA Antibody (>300, Normal <10), Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,Pertinent Diagnostic Tests,LabResult,Pertinent Diagnostic Tests,"January 8 2018: Hematologic: Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL), Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL), Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL), Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL), Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,Pertinent Diagnostic Tests,LabResult,Pertinent Diagnostic Tests,"February 27 2018: Hematologic: Elevated Lactate Dehydrogenase (333, Normal 140-271)"
+002,January 8 2018,Diagnosis,Problem List,Joint Pain
+002,January 8 2018,Diagnosis,Problem List,Unintentional Weight Loss
+002,January 8 2018,Diagnosis,Problem List,Fever
+002,January 8 2018,Diagnosis,Problem List,Night Sweats
+002,January 8 2018,Diagnosis,Problem List,Early Satiety
+002,January 8 2018,Diagnosis,Problem List,Dry eye and Mouth
+002,January 8 2018,Diagnosis,Problem List,"Headaches with lightheadedness, nausea"
+002,January 8 2018,Diagnosis,Problem List,Lymphadenopathy
+002,January 8 2018,Diagnosis,Problem List,Facial Rash
+002,January 8 2018,MedicalHistory,Summary Statement,Rheumatoid Arthritis
+002,January 8 2018,FamilyHistory,Family History,Father – Living aged 74- HTN
+002,January 8 2018,FamilyHistory,Family History,Mother- living aged 72 - Hypothyroidism
+002,January 8 2018,FamilyHistory,Family History,Brother – living aged 44 – Vitiligo
+002,January 8 2018,FamilyHistory,Family History,Sister – living aged 40 – No known chronic health issues
+002,January 8 2018,FamilyHistory,Family History,"2 sons - living, aged 27 and 24 – No known chronic health issues"
+002,January 8 2018,SocialHistory,Social History,"Patient is a high school graduate, working as an electrician"
+002,January 8 2018,SocialHistory,Social History,Patient is concerned about having to miss additional work due to his illness
+002,January 8 2018,Review of Systems,Skin,Positive for facial rash in the pre-auricular area
+002,January 8 2018,Review of Systems,Hematopoietic,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes"
+002,January 8 2018,Review of Systems,Head and Face,"No pain, traumatic injury, ptosis, loss of sensation"
+002,January 8 2018,Review of Systems,Eyes,Positive for burning sensation
+002,January 8 2018,Review of Systems,Mouth and Throat,Positive for dry mouth and dysphagia
+002,January 8 2018,Review of Systems,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, vomiting"
+002,January 8 2018,Review of Systems,MSK,"Positive for painful, hot, and tender joints with subjective swelling"
+002,January 8 2018,Review of Systems,Nervous System,See HPI regarding recent lightheadedness
+002,January 8 2018,Review of Systems,Endocrine,See HPI regarding fatigue
+002,January 8 2018,Review of Systems,Psychological,Positive for depressed mood
+002,January 8 2018,Physical Exam,Vitals,"T 98.5, HR 68, BP 126/85, RR 16"
+002,January 8 2018,Physical Exam,General Appearance,"Patient is a ill-appearing, well-nourished man in no acute distress"
+002,January 8 2018,Physical Exam,Skin,Macular rash in the pre-auricular area
+002,January 8 2018,Physical Exam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,January 8 2018,Physical Exam,Neck,Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+002,January 8 2018,Physical Exam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4"
+002,January 8 2018,Physical Exam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,January 8 2018,Physical Exam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,January 8 2018,Physical Exam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,January 8 2018,Physical Exam,Neuro,"Alert and oriented X 3, strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally"
+002,January 8 2018,LabResult,Autoimmune,Positive ANA
+002,January 8 2018,LabResult,Autoimmune,Positive Rheumatoid Factor
+002,January 8 2018,LabResult,Autoimmune,Elevated CCP
+002,January 8 2018,LabResult,Autoimmune,Positive SS-A
+002,January 8 2018,LabResult,Autoimmune,Positive for HLA Cass 1
+002,January 8 2018,LabResult,Autoimmune,Elevated Sedimentation Rate
+002,January 8 2018,LabResult,Autoimmune,Positive Double Stranded DNA Antibody
+002,January 8 2018,LabResult,Hematologic,Decreased CD4
+002,January 8 2018,LabResult,Hematologic,Decreased WBC
+002,January 8 2018,LabResult,Hematologic,Decreased RBC
+002,January 8 2018,LabResult,Hematologic,Normal Hemoglobin
+002,January 8 2018,LabResult,Hematologic,Normal Hematocrit
+002,February 27 2018,LabResult,Hematologic,Elevated Lactate Dehydrogenase
+002,February 27 2018,LabResult,Hematologic,Elevated Creatinine Kinase
+002,February 27 2018,LabResult,Hematologic,Decreased RBC
+002,February 27 2018,LabResult,Hematologic,Decreased Hemoglobin
+002,February 27 2018,LabResult,Hematologic,Decreased Hematocrit
+002,February 27 2018,LabResult,Hematologic,Decreased WBC
+002,February 27 2018,LabResult,Hematologic,Decreased Platelets
+002,February 27 2018,Imaging,CT,Chronic enlargement of the Parotid Gland
+002,February 27 2018,Imaging,CT,Head CT came back with no abnormalities
+002,February 27 2018,Imaging,US,"Bilateral neck, axilla, and groin lymphadenopathy"
+002,January 8 2018,Imaging,Imaging,CT showed chronic enlargement of the Parotid Gland
+002,January 8 2018,Imaging,Imaging,Head CT came back with no abnormalities
+002,January 8 2018,Imaging,Imaging,"US showed bilateral neck, axilla, and groin lymphadenopathy. However, nodes show normal morphology and normal fatty hila"
+002,Past 2 months,Diagnosis,Summary Statement,Patient is a 48 year old Hispanic male with a 2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease
+002,Past 4 months,Diagnosis,Summary Statement,"Patient presents with a four month history of joint pain and weakness, a 2 month history of headaches with lightheadedness and nausea, and a one month history of subjective fever, and night sweats alongside symptoms of burning eyes and dry mouth, decreased RBC and Hemoglobin, and a CT with an enlarged parotid gland"
+002,January 8 2018,LabResult,Hematologic,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL)"
+002,January 8 2018,LabResult,Hematologic,"Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL)"
+002,January 8 2018,LabResult,Hematologic,"Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL)"
+002,January 8 2018,LabResult,Hematologic,"Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL)"
+002,January 8 2018,LabResult,Hematologic,"Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Hematologic,"Elevated Lactate Dehydrogenase (333, Normal 140-271)"
+002,February 27 2018,LabResult,Hematologic,"Elevated Creatinine Kinase (229, Normal: 30-223)"
+002,February 27 2018,LabResult,Hematologic,"Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL)"
+002,February 27 2018,LabResult,Hematologic,"Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL)"
+002,February 27 2018,LabResult,Hematologic,"Decreased Hematocrit (35.1%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Hematologic,"Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL)"
+002,February 27 2018,LabResult,Hematologic,"Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)"
+002,February 27 2018,Imaging,Imaging,CT showed chronic enlargement of the Parotid Gland
+002,February 27 2018,Imaging,Imaging,Head CT came back with no abnormalities
+002,February 27 2018,Imaging,Imaging,"US showed bilateral neck, axilla, and groin lymphadenopathy. However, nodes show normal morphology and normal fatty hila"
+002,January 8 2018,Diagnosis,Autoimmune,Positive ANA (>1:640)
+002,January 8 2018,Diagnosis,Autoimmune,"Positive Rheumatoid Factor (70, Normal <20)"
+002,January 8 2018,Diagnosis,Autoimmune,Elevated CCP
+002,January 8 2018,Diagnosis,Autoimmune,Positive SS-A
+002,January 8 2018,Diagnosis,Autoimmune,Positive for HLA Cass 1
+002,January 8 2018,Diagnosis,Autoimmune,"Elevated Sedimentation Rate (46, Normal 0-15mm/hr)"
+002,January 8 2018,Diagnosis,Autoimmune,"Positive Double Stranded DNA Antibody (>300, Normal <10)"
+002,January 8 2018,Diagnosis,Autoimmune,"Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,Past 2 months,MedicalHistory,Summary Statement,Patient has a strong family history of autoimmune disease
+002,Past 4 months,MedicalHistory,Summary Statement,"Patient presents with a four month history of joint pain and weakness, a 2 month history of headaches with lightheadedness and nausea, and a one month history of subjective fever, and night sweats alongside symptoms of burning eyes and dry mouth, decreased RBC and Hemoglobin, and a CT with an enlarged parotid gland"
+002,Present,SocialHistory,Social History,"Patient works as an electrician, a job with daily physical exertion that requires climbing ladders and the lifting of heavy objects"
+002,Past,Allergy,Allergies,"No known drug allergies. No known environmental, food, or seasonal allergies"
+002,Present,FamilyHistory,Family History,"Father – Living aged 74- HTN Mother- living aged 72 - Hypothyroidism Brother – living aged 44 – Vitiligo Sister – living aged 40 – No known chronic health issues 2 sons - living, aged 27 and 24 – No known chronic health issues"
+002,Present,Review of Systems,Skin,"Positive for facial rash in the pre-auricular area, see HPI. Negative for photosensitivity, easy bruising, skin discoloration, new or changing moles, ulcers, hair loss, or dry or brittle nails, or dry skin"
+002,Present,Review of Systems,Hematopoietic,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes. Negative for tinnitus, fainting"
+002,Present,Review of Systems,Head and Face,"No pain, traumatic injury, ptosis, loss of sensation"
+002,Present,Review of Systems,Eyes,"Positive for burning sensation, see HPI. No changes to vision, inflammation, infections, double vision, tearing"
+002,Present,Review of Systems,Mouth and Throat,"See HPI, positive for dry mouth and dysphagia. No dental problems, hoarseness, or bleeding gums"
+002,Present,Review of Systems,Nose and Sinus,"No discharge, epistaxis, sinus pain, obstruction"
+002,Present,Review of Systems,Respiratory,"No cough, sputum, dyspnea, wheezing"
+002,Present,Review of Systems,Cardiovascular,"No chest pain, dyspnea, swelling of extremities, hypertension, exercise intolerance, or palpitations"
+002,Present,Review of Systems,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, vomiting. No PICA, heartburn, change in bowel habits or bowel texture. No blood in the stool"
+002,Present,Review of Systems,Genital Tract,"No discharge, pain, pruritus, history of sexually transmitted infections"
+002,Present,Review of Systems,MSK,"Positive for painful, hot, and tender joints with subjective swelling. See HPI"
+002,Present,Review of Systems,Nervous System,"See HPI regarding recent lightheadedness. No tremor, ataxia, difficulty speaking, loss of sensation, seizures, changes in memory"
+002,Present,Review of Systems,Endocrine,"See HPI regarding fatigue. No tremor, heat or cold intolerance, polyuria, polydipsia, goiter"
+002,Present,Review of Systems,Psychological,"Positive for depressed mood. No nervousness, phobia, insomnia, memory loss, disorientation"
+002,Present,Physical Exam,Physical Exam,"Patient is a ill-appearing, well-nourished man in no acute distress"
+002,Present,Physical Exam,Skin,"Macular rash in the pre-auricular area. No pallor. Normal texture, normal turgor, warm, dry"
+002,Present,Physical Exam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,Present,Physical Exam,Neck,Lymphadenopathy in the anterior cervical chain and supraclavicular chain. Lymph nodes were 4-5 mm and not fixed. No Lymphadenopathy in posterior cervical chain. No thyromegaly
+002,Present,Physical Exam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4. No murmurs, rubs, or gallops"
+002,Present,Physical Exam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,Present,Physical Exam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,Present,Physical Exam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,Present,Physical Exam,Neuro,"Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact. Tandem gait was normal symmetric. Sensation intact to light touch and sharp vs dull on distal arms and legs. Proprioception intact"
+002,January 8 2018,Diagnosis,Summary Statement,Patient is a 48 year old Hispanic male with a 2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease
+002,January 8 2018,MedicalHistory,Summary Statement,"Four month history of joint pain and weakness, 2 month history of headaches with lightheadedness and nausea, and 1 month history of subjective fever and night sweats"
+002,January 8 2018,PhysicalExam,Summary Statement,"Ill-appearing, well-nourished man in no acute distress"
+002,February 27 2018,LabResult,Hematologic,"Decreased CD4, decreased WBC, decreased RBC, normal Hemoglobin, and normal Hematocrit"
+002,February 27 2018,LabResult,Hematologic,"Elevated Lactate Dehydrogenase, elevated Creatinine Kinase, decreased RBC, decreased Hemoglobin, and decreased Hematocrit"
+002,February 27 2018,LabResult,Hematologic,Decreased WBC and decreased Platelets
+002,January 8 2018,Imaging,Imaging,CT showed chronic enlargement of the Parotid Gland
+002,January 8 2018,Imaging,Imaging,Head CT came back with no abnormalities
+002,January 8 2018,Imaging,Imaging,"US showed bilateral neck, axilla, and groin lymphadenopathy, with normal morphology and normal fatty hila"
+002,Past 2 months,Diagnosis,FamilyHistory,"Father – Living aged 74- HTN, Mother- living aged 72 - Hypothyroidism, Brother – living aged 44 – Vitiligo, Sister – living aged 40 – No known chronic health issues, 2 sons - living, aged 27 and 24 – No known chronic health issues"
+002,Past 2 months,SocialHistory,Social History,"Patient is a high school graduate, working as an electrician, living with his wife of 25 years and 2 dogs"
+002,Past 2 months,SocialHistory,Social History,"Patient feels safe and well-cared for in his home, works as an electrician, a job with daily physical exertion"
+002,Past 2 months,SocialHistory,Social History,"Patient is concerned about having to miss additional work due to his illness, denies any history of smoking"
+002,Past 2 months,SocialHistory,Social History,"Patient reports previously drinking alcohol socially -1-2 beers, 1-2 times per month, but ceased alcohol intake since the onset of symptoms 4 months ago, denies any recreational drug use"
+002,Past 2 months,SocialHistory,Social History,Patient reports a well-rounded non-vegetarian diet of mostly home cooked meals of meat and vegetables
+002,Past 2 months,SocialHistory,Social History,Patient is sexually active with his wife and reports a happy and monogamous relationship
+002,Review of Systems,Skin,Review of Systems,"Positive for facial rash in the pre-auricular area, negative for photosensitivity, easy bruising, skin discoloration, new or changing moles, ulcers, hair loss, or dry or brittle nails, or dry skin"
+002,Review of Systems,Hematopoietic,Review of Systems,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes"
+002,Review of Systems,Head and Face,Review of Systems,"No pain, traumatic injury, ptosis, loss of sensation"
+002,Review of Systems,Ears,Review of Systems,"No changes to hearing, discharge from ears"
+002,Review of Systems,Eyes,Review of Systems,"Positive for burning sensation, no changes to vision, inflammation, infections, double vision, tearing"
+002,Review of Systems,Mouth and Throat,Review of Systems,"Positive for dry mouth and dysphagia, no dental problems, hoarseness, or bleeding gums"
+002,Review of Systems,Nose and Sinus,Review of Systems,"No discharge, epistaxis, sinus pain, obstruction"
+002,Review of Systems,Respiratory,Review of Systems,"No cough, sputum, dyspnea, wheezing"
+002,Review of Systems,Cardiovascular,Review of Systems,"No chest pain, dyspnea, swelling of extremities, hypertension, exercise intolerance, or palpitations"
+002,Review of Systems,Gastrointestinal,Review of Systems,"Positive for anorexia, decreased appetite, nausea, vomiting, no PICA, heartburn, change in bowel habits or bowel texture"
+002,Review of Systems,Genital Tract,Review of Systems,"No discharge, pain, pruritus, history of sexually transmitted infections"
+002,Review of Systems,MSK,Review of Systems,"Positive for painful, hot, and tender joints with subjective swelling"
+002,Review of Systems,Nervous System,Review of Systems,"See HPI regarding recent lightheadedness, no tremor, ataxia, difficulty speaking, loss of sensation, seizures, changes in memory"
+002,Review of Systems,Endocrine,Review of Systems,"See HPI regarding fatigue, no tremor, heat or cold intolerance, polyuria, polydipsia, goiter"
+002,Review of Systems,Psychological,Review of Systems,"Positive for depressed mood, no nervousness, phobia, insomnia, memory loss, disorientation"
+002,Physical Exam,Vitals,Physical Exam,"T 98.5, HR 68, BP 126/85, RR 16"
+002,Physical Exam,General Appearance,Physical Exam,"Patient is a ill-appearing, well-nourished man in no acute distress"
+002,Physical Exam,Skin,Physical Exam,"Macular rash in the pre-auricular area, no pallor, normal texture, normal turgor, warm, dry"
+002,Physical Exam,Eyes,Physical Exam,"Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,Physical Exam,Neck,Physical Exam,Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+002,Physical Exam,Heart,Physical Exam,"PMI non-displaced and heart of normal size, no thrill or heaves, RRR, S1S2 with no S3 or S4, no murmurs, rubs, or gallops"
+002,Physical Exam,Lungs,Physical Exam,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,Physical Exam,Extremities,Physical Exam,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,Physical Exam,Abdomen,Physical Exam,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,Physical Exam,Neuro,Physical Exam,"Alert and oriented X 3, strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally, cranial nerves II-XII were grossly intact, tandem gait was normal symmetric, sensation intact to light touch and sharp vs dull on distal arms and legs, proprioception intact"
+002,"January 8, 2018",FamilyHistory,Family History,"Father - Living, aged 74, HTN; Mother - Living, aged 72, Hypothyroidism; Brother - Living, aged 44, Vitiligo; Sister - Living, aged 40, No known chronic health issues; 2 sons - Living, aged 27 and 24, No known chronic health issues"
+002,"January 8, 2018",SocialHistory,Social History,"High school graduate, working as an electrician, living with his wife of 25 years and 2 dogs. Patient feels safe and well-cared for in his home. Works as an electrician, a job with daily physical exertion that requires climbing ladders and the lifting of heavy objects."
+002,"January 8, 2018",SocialHistory,Social History,"Patient denies any history of smoking. Patient reports previously drinking alcohol socially -1-2 beers, 1-2 times per month - however has ceased alcohol intake since the onset of symptoms 4 months ago. Patient denies any recreational drug use."
+002,"January 8, 2018",SocialHistory,Social History,Patient reports a well-rounded non-vegetarian diet of mostly home cooked meals of meat and vegetables. Patient is sexually active with his wife and reports a happy and monogamous relationship.
+002,"January 8, 2018",Review of Systems,Skin,"Positive for facial rash in the pre-auricular area, see HPI. Negative for photosensitivity, easy bruising, skin discoloration, new or changing moles, ulcers, hair loss, or dry or brittle nails, or dry skin."
+002,"January 8, 2018",Review of Systems,Hematopoietic,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes. Negative for tinnitus, fainting."
+002,"January 8, 2018",Review of Systems,Head and Face,"No pain, traumatic injury, ptosis, loss of sensation."
+002,"January 8, 2018",Review of Systems,Eyes,"Positive for burning sensation, See HPI. No changes to vision, inflammation, infections, double vision, tearing."
+002,"January 8, 2018",Review of Systems,Mouth and Throat,"See HPI, positive for dry mouth and dysphagia. No dental problems, hoarseness, or bleeding gums."
+002,"January 8, 2018",Review of Systems,Respiratory,"No cough, sputum, dyspnea, wheezing."
+002,"January 8, 2018",Review of Systems,Cardiovascular,"No chest pain, dyspnea, swelling of extremities, hypertension, exercise intolerance, or palpitations."
+002,"January 8, 2018",Review of Systems,Gastrointestinal,"Positive for anorexia, decreased appetite, nausea, vomiting. No PICA, heartburn, change in bowel habits or bowel texture. No blood in the stool."
+002,"January 8, 2018",Review of Systems,Genital Tract,"No discharge, pain, pruritus, history of sexually transmitted infections."
+002,"January 8, 2018",Review of Systems,MSK,"Positive for painful, hot, and tender joints with subjective swelling. See HPI"
+002,"January 8, 2018",Review of Systems,Nervous System,"See HPI regarding recent lightheadedness. No tremor, ataxia, difficulty speaking, loss of sensation, seizures, changes in memory."
+002,"January 8, 2018",Review of Systems,Endocrine,"See HPI regarding fatigue. No tremor, heat or cold intolerance, polyuria, polydipsia, goiter."
+002,"January 8, 2018",Review of Systems,Psychological,"Positive for depressed mood. No nervousness, phobia, insomnia, memory loss, disorientation."
+002,"January 8, 2018",Physical Exam,Vitals,"T 98.5, HR 68, BP 126/85, RR 16"
+002,"January 8, 2018",Physical Exam,General Appearance,"Patient is an ill-appearing, well-nourished man in no acute distress."
+002,"January 8, 2018",Physical Exam,Skin,"Macular rash in the pre-auricular area. No pallor. Normal texture, normal turgor, warm, dry."
+002,"January 8, 2018",Physical Exam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus."
+002,"January 8, 2018",Physical Exam,Neck,Lymphadenopathy in the anterior cervical chain and supraclavicular chain. Lymph nodes were 4-5 mm and not fixed. No Lymphadenopathy in posterior cervical chain. No thyromegaly.
+002,"January 8, 2018",Physical Exam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4. No murmurs, rubs, or gallops."
+002,"January 8, 2018",Physical Exam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles."
+002,"January 8, 2018",Physical Exam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,"January 8, 2018",Physical Exam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,"January 8, 2018",Physical Exam,Neuro,"Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact. Tandem gait was normal symmetric. Sensation intact to light touch and sharp vs dull on distal arms and legs. Proprioception intact."
+002,"January 8, 2018",Pertinent Diagnostic Tests,Autoimmune,"Positive ANA (>1:640), Positive Rheumatoid Factor (70, Normal <20), Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate (46, Normal 0-15mm/hr), Positive Double Stranded DNA Antibody (>300, Normal <10), Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,"January 8, 2018",Pertinent Diagnostic Tests,Hematologic,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL), Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL), Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL), Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL), Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,"February 27, 2018",Pertinent Diagnostic Tests,Hematologic,"Elevated Lactate Dehydrogenase (333, Normal 140-271), Elevated Creatinine Kinase (229, Normal: 30-223), Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL), Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL), Decreased Hematocrit (35.1%, Normal 40.0-48.0%), Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL), Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)"
+002,"February 27, 2018",Pertinent Diagnostic Tests,Imaging,"CT showed chronic enlargement of the Parotid Gland, Head CT came back with no abnormalities, US showed bilateral neck, axilla, and groin lymphadenopathy. However, nodes show normal morphology and normal fatty hila"
+002,January 8 2018,MedicalHistory,Review of Systems,"Fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes"
+002,January 8 2018,MedicalHistory,Review of Systems,Burning sensation in eyes
+002,January 8 2018,MedicalHistory,Review of Systems,Dry mouth and dysphagia
+002,January 8 2018,PhysicalExam,Vitals,"T 98.5, HR 68, BP 126/85, RR 16"
+002,January 8 2018,PhysicalExam,General Appearance,"Patient is an ill-appearing, well-nourished man in no acute distress"
+002,January 8 2018,PhysicalExam,Skin,"Macular rash in the pre-auricular area, no pallor, normal texture, normal turgor, warm, dry"
+002,January 8 2018,PhysicalExam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,January 8 2018,PhysicalExam,Neck,"Lymphadenopathy in the anterior cervical chain and supraclavicular chain, 4-5 mm and not fixed"
+002,January 8 2018,PhysicalExam,Heart,"PMI non-displaced and heart of normal size, no thrill or heaves, RRR, S1S2 with no S3 or S4"
+002,January 8 2018,PhysicalExam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,January 8 2018,PhysicalExam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+002,January 8 2018,PhysicalExam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,January 8 2018,PhysicalExam,Neuro,"Alert and oriented X 3, strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally, cranial Nerves II-XII were grossly intact, tandem gait was normal symmetric, sensation intact to light touch and sharp vs dull on distal arms and legs"
+002,January 8 2018,LabResult,Autoimmune,"Positive ANA (>1:640), Positive Rheumatoid Factor (70, Normal <20), Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate (46, Normal 0-15mm/hr), Positive Double Stranded DNA Antibody (>300, Normal <10), Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,January 8 2018,LabResult,Hematologic,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL), Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL), Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL), Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL), Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Hematologic,"Elevated Lactate Dehydrogenase (333, Normal 140-271), Elevated Creatinine Kinase (229, Normal: 30-223), Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL), Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL), Decreased Hematocrit (35.1%, Normal 40.0-48.0%), Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL), Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)"
+002,February 27 2018,Imaging,Imaging,"CT showed chronic enlargement of the Parotid Gland, Head CT came back with no abnormalities, US showed bilateral neck, axilla, and groin lymphadenopathy"
+002,Problem List,Diagnosis,Problem List,"Joint Pain, Unintentional Weight Loss, Fever, Night Sweats, Early Satiety, Dry eye and Mouth, Headaches with lightheadedness, nausea, Lymphadenopathy, Facial Rash"
+002,Summary Statement,MedicalHistory,Summary Statement,"Patient is a 48 year old Hispanic male with a 2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease, who presents with a four month history of joint pain and weakness, a 2 month history of headaches with lightheadedness and nausea, and a one month history of subjective fever, and night sweats alongside symptoms of burning eyes and dry mouth, decreased RBC and Hemoglobin, and a CT with an enlarged parotid gland."
+002,Past 2 months,Diagnosis,HPI,Rheumatoid Arthritis
+002,January 8 2018,MedicalHistory,HPI,History of sexually transmitted infections
+002,January 8 2018,MedicalHistory,HPI,History of present illness
+002,January 8 2018,PhysicalExam,Physical Exam,"Vitals: T 98.5, HR 68, BP 126/85, RR 16"
+002,January 8 2018,PhysicalExam,Physical Exam,"General Appearance: Patient is a ill-appearing, well-nourished man in no acute distress"
+002,January 8 2018,PhysicalExam,Physical Exam,Skin: Macular rash in the pre-auricular area
+002,January 8 2018,PhysicalExam,Physical Exam,"Eyes: Normal pink mucosa with no signs of pallor, no scleral icterus"
+002,January 8 2018,PhysicalExam,Physical Exam,Neck: Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+002,January 8 2018,PhysicalExam,Physical Exam,"Heart: PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4"
+002,January 8 2018,PhysicalExam,Physical Exam,"Lungs: No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+002,January 8 2018,PhysicalExam,Physical Exam,"Extremities: Normal capillary refill, no edema, clubbing, cyanosis"
+002,January 8 2018,PhysicalExam,Physical Exam,"Abdomen: Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+002,January 8 2018,PhysicalExam,Physical Exam,"Neuro: Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact. Tandem gait was normal symmetric. Sensation intact to light touch and sharp vs dull on distal arms and legs. Proprioception intact."
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,Positive ANA (>1:640)
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive Rheumatoid Factor (70, Normal <20)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,Elevated CCP
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,Positive SS-A
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,Positive for HLA Cass 1
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Sedimentation Rate (46, Normal 0-15mm/hr)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive Double Stranded DNA Antibody (>300, Normal <10)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL)"
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Lactate Dehydrogenase (333, Normal 140-271)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Creatinine Kinase (229, Normal: 30-223)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Decreased Hematocrit (35.1%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)"
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,CT showed chronic enlargement of the Parotid Gland
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,Head CT came back with no abnormalities
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,"US showed bilateral neck, axilla, and groin lymphadenopathy. However, nodes show normal morphology and normal fatty hila"
+002,Problem List,Event,Problem List,Joint Pain
+002,Problem List,Event,Problem List,"Unintentional Weight Loss, Fever, Night Sweats"
+002,Problem List,Event,Problem List,Early Satiety
+002,Problem List,Event,Problem List,Dry eye and Mouth
+002,Problem List,Event,Problem List,"Headaches with lightheadedness, nausea"
+002,Problem List,Event,Problem List,Lymphadenopathy
+002,Summary Statement,Event,Summary Statement,"In summary patient is a 48 year old Hispanic male with a 2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease, who presents with a four month history of joint pain and weakness, a 2 month history of headaches with lightheadedness and nausea, and a one month history of subjective fever, and night sweats alongside symptoms of burning eyes and dry mouth, decreased RBC and Hemoglobin, and a CT with an enlarged parotid gland"
+002,January 8 2018,Diagnosis,Pertinent Diagnostic Tests,"Positive ANA (>1:640), Positive Rheumatoid Factor (70, Normal <20), Elevated CCP, Positive SS-A, Positive for HLA Cass 1, Elevated Sedimentation Rate (46, Normal 0-15mm/hr), Positive Double Stranded DNA Antibody (>300, Normal <10), Negative Smith Antibody, Negative Jo-1, Negative Scl-70"
+002,January 8 2018,MedicalHistory,Pertinent Diagnostic Tests,2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease
+002,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Decreased CD4 (147 cells/uL, Normal: 492-1656 cells/uL), Decreased WBC (4.0, Normal: 4.1-10.4 x 10(3)/uL), Decreased RBC (4.32, Normal: 4.4-5.6 x 10(6)/uL), Normal Hemoglobin (13.9, Normal 13.7-16.7 g/dL), Normal Hematocrit (41.3%, Normal 40.0-48.0%)"
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Elevated Lactate Dehydrogenase (333, Normal 140-271), Elevated Creatinine Kinase (229, Normal: 30-223), Decreased RBC (3.72x 10(6), Normal: 4.4-5.6 x 10(6)/uL), Decreased Hemoglobin (11.7, Normal 13.7-16.7 g/dL), Decreased Hematocrit (35.1%, Normal 40.0-48.0%), Decreased WBC (3.7, Normal: 4.1-10.4 x 10(3)/uL), Decreased Platelets (112, Normal: 145-355 x 10(3)/uL)"
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,"CT showed chronic enlargement of the Parotid Gland, Head CT came back with no abnormalities, US showed bilateral neck, axilla, and groin lymphadenopathy"
+002,February 27 2018,Imaging,Pertinent Diagnostic Tests,Normal morphology and normal fatty hila
+002,February 27 2018,LabResult,Pertinent Diagnostic Tests,"Negative Hepatitis Panel (B surface antigen, B core IgM, Hepatitis C), Negative STI Panel (N Gonorrhoeae DNA, trachomatis DNA), Negative Parvovirus B19 IgG/IgM, Negative Cytomegalovirus"
+002,Problem List,Medication,Problem List,"Joint Pain, Unintentional Weight Loss, Fever, Night Sweats, Early Satiety, Dry eye and Mouth, Headaches with lightheadedness, nausea, Lymphadenopathy, Facial Rash"
+002,Problem List,MedicalHistory,Problem List,2 month history of Rheumatoid Arthritis and a strong family history of autoimmune disease
+002,Problem List,SocialHistory,Problem List,"4 month history of joint pain and weakness, 2 month history of headaches with lightheadedness and nausea, 1 month history of subjective fever, night sweats"
+002,Problem List,LabResult,Problem List,"Decreased RBC and Hemoglobin, CT with an enlarged parotid gland"
+002,Problem List,Imaging,Problem List,CT with an enlarged parotid gland
+002,Problem List,Imaging,Problem List,Head CT with no abnormalities
+002,Problem List,Imaging,Problem List,"US with bilateral neck, axilla, and groin lymphadenopathy"
+002,Differential Diagnosis,Assessment and Plan,Differential Diagnosis,"Sjögren's Syndrome, Systemic Lupus Erythematosus (SLE)"
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"The patient has a personal history of autoimmune disease and a positive HLA genotype. He was diagnosed with Rheumatoid arthritis 2 months ago. His presenting symptom of bilateral joint pain in the knees and fingers paired with a positive RF, CCP, and decreased CD4 count made this diagnosis very likely. Sjögren's Syndrome is very heavily associated with Rheumatoid Arthritis, estimated prevalence between 17-30% in those with previously diagnosed Rheumatoid Arthritis."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Another possible cause of the burning sensation is trigeminal neuralgia, a neurological manifestation of Sjogren’s syndrome. However, this patient also presents with some of rarer manifestations of Sjögren's Syndrome."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"According to UpToDate: Clinical manifestations of Sjögren's syndrome: Extraglandular disease, normochromic normocytic anemia can be seen in up to 20% of sjogrens patients."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Further, “Patients with SS may exhibit abnormal counts in any cell line, and patients with cytopenia often have involvement of more than one cell line“3."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,This anemia could be the underlying cause of the lightheadedness and muscle weakness.
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Further, a more rare manifestation of Sjögren's Syndrome, is autonomic neuropathy3."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Autonomic neuropathy manifests as headache, lightheadedness, early satiety, vomiting, weight loss, and sweating abnormalities."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"The patient's headaches with lightheadedness, as well as his GI symptoms and night sweats can be explained by the neurological manifestations of Sjögren's syndrome."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Finally, autoimmune diseases are often associated with cutaneous manifestations."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Some of these, such as the malar rash of lupus are well defined, while others are ill defined."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,The pre-auricular rash can be seen as an atypical cutaneous presentation of Sjogren’s syndrome.
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Plan: A Schirmer test would help differentiate if the burning sensation in the eyes is due to dry eyes or another cause, possibly trigeminal neuralgia."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Acutely, the patient should be started on corticosteroids to treat the acute symptoms of Sjögren's syndrome."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Long term, hydrochloroquine or an immunosuppressant may want to be considered."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,This should help with the joint pain and constitutional symptoms.
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,Monitoring of RBC and WBC should be continued to make sure they return to normal ranges after this acute event.
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,Alternative: Systemic Lupus Erythematosus (SLE)
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"Assessment: SLE is another very possible diagnosis. The history of autoimmune diseases, paired with the SS-A and dsDNA can point us towards a diagnosis of Lupus."
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,The anemia and leukopenia can also be accounted for by SLE.
+002,Assessment and Plan,Assessment and Plan,Assessment and Plan,"However, SLE would not explain the facial rash."
+002,Past 2 months,Diagnosis,History of Present Illness,dry mouth and burning eyes
+002,Past 2 months,Diagnosis,History of Present Illness,macular rash in the pre-auricular area
+002,Past 2 months,Diagnosis,History of Present Illness,parotid gland involvement
+002,Past 2 months,MedicalHistory,Past Medical History,Sjogren’s Syndrome
+002,Past 2 months,Diagnosis,Differential Diagnosis,SLE
+002,Past 2 months,Medication,Treatment Plan,corticosteroids
+002,Past 2 months,Event,Plan,Continue to monitor kidney function
+002,Past 2 months,Procedure,Plan,Biopsy of the parotid gland and/or cervical lymph nodes
+002,2010,LabResult,Sources,"Chai J, Logigian EL. Neurological manifestations of primary Sjogren's syndrome. Curr Opin Neurol. 2010;23(5):509-513."
+002,2012,LabResult,Sources,"García-Carrasco, Mario et al. “Serologic Features of Primary Sjögren’s Syndrome: Clinical and Prognostic Correlation.” International journal of clinical rheumatology 7.6 (2012): 651–659."
+002,2018,LabResult,Sources,"Patel, Ruchika, and Anupama Shahane. “The Epidemiology of Sjögren’s Syndrome.” Clinical Epidemiology 6 (2014): 247–255."
+002,2002,LabResult,Sources,"Lindvall B, Bengtsson A, Ernerudh J, Eriksson P. Subclinical myositis is common in primary Sjogren's syndrome and is not related to muscle pain. J Rheumatol. 2002;29(4):717-725."
+002,2007,LabResult,Sources,"Assimakopoulos SF, Michalopoulou S, Melachrinou M, et al. Primary Sjogren syndrome complicated by autoimmune hemolytic anemia and pure red cell aplasia. Am J Med Sci. 2007;334(6):493-496."
+002,1983,LabResult,Sources,"Boling EP, Wen J, Reveille JD, Bias WB, Chused TM, Arnett FC. Primary Sjogren's syndrome and autoimmune hemolytic anemia in sisters. A family study. Am J Med. 1983;74(6):1066-1071."
+002,Plan,Event,Sources,Do Not Miss: B-Cell Lymphoma

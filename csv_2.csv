@@ -1,0 +1,19 @@
+Patient Id,Date,Category,Section,Description
+001,January 8 2018,Diagnosis,Pertinent Diagnostic Tests,"Positive ANA (>1:640) and Positive Rheumatoid Factor (70, Normal <20)"
+001,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive ANA (>1:640) and Positive Rheumatoid Factor (70, Normal <20)"
+001,Past 2 months,MedicalHistory,History of Present Illness,Rheumatoid Arthritis
+001,Past 4 months,MedicalHistory,History of Present Illness,Joint pain and weakness
+001,One month ago,MedicalHistory,History of Present Illness,"Fever, night sweats, and headaches with lightheadedness and nausea"
+001,Two months ago,MedicalHistory,History of Present Illness,"Decreased appetite, nausea, vomiting, and anorexia"
+001,FamilyHistory,FamilyHistory,Not specified,Strong family history of autoimmune disease
+001,Present,PhysicalExam,General Appearance,"Patient is a ill-appearing, well-nourished man in no acute distress"
+001,Present,PhysicalExam,Skin,"Macular rash in the pre-auricular area. No pallor. Normal texture, normal turgor, warm, dry."
+001,Present,PhysicalExam,Eyes,"Normal pink mucosa with no signs of pallor, no scleral icterus."
+001,Present,PhysicalExam,Neck,Lymphadenopathy in the anterior cervical chain and supraclavicular chain. Lymph nodes were 4-5 mm and not fixed.
+001,Present,PhysicalExam,Heart,"PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4."
+001,Present,PhysicalExam,Lungs,"No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles."
+001,Present,PhysicalExam,Extremities,"Normal capillary refill, no edema, clubbing, cyanosis"
+001,Present,PhysicalExam,Abdomen,"Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+001,Present,PhysicalExam,Neuro,"Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact. Tandem gait was normal symmetric. Sensation intact to light touch and sharp vs dull on distal arms and legs. Proprioception intact."
+001,Present,ProblemList,Not specified,"Joint Pain, Unintentional Weight Loss, Fever, Night Sweats"
+001,Present,Assessment,Not specified,"Sjögren's Syndrome, Rheumatoid Arthritis"

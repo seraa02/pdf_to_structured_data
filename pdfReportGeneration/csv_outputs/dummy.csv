@@ -1,0 +1,27 @@
+Patient Id,Date,Category,Section,Description
+001,January 2020,Diagnosis,Past Medical History,"Type 2 Diabetes Mellitus, diagnosed"
+001,June 2018,Diagnosis,Past Medical History,"Hypertension, diagnosed"
+001,March 2019,Diagnosis,Past Medical History,"Hyperlipidemia, diagnosed"
+001,March 15 2025,Diagnosis,History of Present Illness,"Sharp chest pain, 7/10, radiating to left arm, worsened by exertion and relieved by rest"
+001,March 15 2025,LabResult,Pertinent Diagnostics,"HbA1c 7.4%, LDL 130 mg/dL"
+001,March 15 2025,Imaging,Pertinent Diagnostics,"ECG: Normal sinus rhythm, no ST changes"
+001,March 15 2025,Procedure,Assessment and Plan,"Begin aspirin 81mg PO daily, follow-up stress test"
+001,March 15 2025,Procedure,Assessment and Plan,Increase Metformin to 1500mg PO BID
+001,March 15 2025,Procedure,Assessment and Plan,"Monitor BP at home, consider dose increase if >150/90"
+001,Past 2 months,MedicalHistory,History of Present Illness,Episodes of chest tightness and dizziness
+001,March 15 2025,PhysicalExam,Physical Exam,"T 98.6 F, HR 78, BP 142/88, RR 16, SpO2 98% on room air"
+001,March 15 2025,PhysicalExam,Physical Exam,"Heart: Regular rate and rhythm, mild S4 present. Lungs: Clear to auscultation bilaterally. Extremities: No edema, pulses 2+ bilaterally"
+001,Ongoing,SocialHistory,Social History,"Non-smoker, social alcohol use (1-2 drinks/week), works as an accountant"
+001,Ongoing,FamilyHistory,Family History,"Father: Coronary artery disease, bypass surgery at age 60. Mother: Type 2 Diabetes Mellitus"
+001,March 15 2025,Diagnosis,Physical Exam,"Regular rate and rhythm, mild S4 present"
+001,March 15 2025,Diagnosis,Physical Exam,Clear to auscultation bilaterally
+001,March 15 2025,Diagnosis,Physical Exam,"No edema, pulses 2+ bilaterally"
+001,March 15 2025,LabResult,Pertinent Diagnostics,"HbA1c 7.4%, LDL 130 mg/dL"
+001,March 15 2025,Procedure,Assessment and Plan,"Begin aspirin 81mg PO daily, follow-up stress test"
+001,March 15 2025,Procedure,Assessment and Plan,Increase Metformin to 1500mg PO BID
+001,March 15 2025,Procedure,Assessment and Plan,"Monitor BP at home, consider dose increase if >150/90"
+001,Past 2 months,MedicalHistory,Social History,"Non-smoker, social alcohol use (1-2 drinks/week), works as an accountant"
+001,Past 2 months,MedicalHistory,Review of Systems,"Positive for chest pain, negative for palpitations or edema"
+001,Past 2 months,MedicalHistory,Review of Systems,Negative for cough or dyspnea
+001,Past 2 months,MedicalHistory,Review of Systems,Negative for nausea or vomiting
+001,Past 2 months,MedicalHistory,Review of Systems,"Positive for dizziness, negative for headaches or seizures"

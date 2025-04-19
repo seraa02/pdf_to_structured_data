@@ -1,0 +1,24 @@
+Patient Id,Date,Category,Section,Description
+001,January 8 2018,Diagnosis,History of Present Illness,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes."
+001,January 8 2018,MedicalHistory,History of Present Illness,"Positive for fatigue, lightheadedness, headaches, enlarged non-tender lymph nodes."
+001,January 8 2018,LabResult,Pertinent Diagnostic Tests,Positive ANA (>1:640)
+001,January 8 2018,LabResult,Pertinent Diagnostic Tests,"Positive Rheumatoid Factor (70, Normal <20)"
+001,Past 2 months,MedicalHistory,Past Medical History,2 month history of Rheumatoid Arthritis
+001,Past 2 months,MedicalHistory,Past Medical History,Strong family history of autoimmune disease
+001,Past 2 months,MedicalHistory,Past Medical History,2 month history of joint pain and weakness
+001,Past month,MedicalHistory,Past Medical History,"1 month history of subjective fever, and night sweats"
+001,Past month,MedicalHistory,Past Medical History,1 month history of headaches with lightheadedness and nausea
+001,Ongoing,Symptom,History of Present Illness,Burning sensation in the eyes
+001,Ongoing,Symptom,History of Present Illness,Dry mouth
+001,Ongoing,Symptom,History of Present Illness,Decreased RBC and Hemoglobin
+001,Ongoing,Symptom,History of Present Illness,CT with an enlarged parotid gland
+001,January 8 2018,Procedure,Physical Exam,"Vitals: T 98.5, HR 68, BP 126/85, RR 16"
+001,January 8 2018,Procedure,Physical Exam,"General Appearance: Patient is a ill-appearing, well-nourished man in no acute distress"
+001,January 8 2018,Procedure,Physical Exam,Skin: Macular rash in the pre-auricular area
+001,January 8 2018,Procedure,Physical Exam,"Eyes: Normal pink mucosa with no signs of pallor, no scleral icterus"
+001,January 8 2018,Procedure,Physical Exam,Neck: Lymphadenopathy in the anterior cervical chain and supraclavicular chain
+001,January 8 2018,Procedure,Physical Exam,"Heart: PMI non-displaced and heart of normal size; no thrill or heaves, RRR, S1S2 with no S3 or S4"
+001,January 8 2018,Procedure,Physical Exam,"Lungs: No increased work of breathing, lungs clear to auscultation bilaterally, no wheezes or crackles"
+001,January 8 2018,Procedure,Physical Exam,"Extremities: Normal capillary refill, no edema, clubbing, cyanosis"
+001,January 8 2018,Procedure,Physical Exam,"Abdomen: Non-distended, no scars, normoactive bowel sounds, no bruits, non-tender to palpation, no hepatosplenomegaly, no masses"
+001,January 8 2018,Procedure,Physical Exam,"Neuro: Alert and oriented X 3. Strength of biceps, triceps, hand grip, finger spread, hip flexion, knee flexion, and knee extension 4/5 bilaterally. Cranial Nerves II-XII were grossly intact. Tandem gait was normal symmetric. Sensation intact to light touch and sharp vs dull on distal arms and legs. Proprioception intact."
